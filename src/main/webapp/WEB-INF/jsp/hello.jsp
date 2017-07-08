@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Title</title>
-    <link rel="stylesheet" href="/resources/css/timezones.css" />
+    <link rel="stylesheet" href="/resources/css/timezones.css"/>
 </head>
 <body>
 <h3>Hello</h3>

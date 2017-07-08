@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Registration page</title>
-    <link rel="stylesheet" href="/resources/css/timezones.css" />
+    <link rel="stylesheet" href="/resources/css/timezones.css"/>
 </head>
 <body>
 <h1>Page for registration</h1>
